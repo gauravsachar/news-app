@@ -41,7 +41,9 @@ export class News extends Component {
 
     async componentDidMount(){
       this.props.setProgress(15);
-      let geturl=`https://newsapi.org/v2/top-headlines?country=us&category=${this.props.category}&apiKey=5dbbc172978040f3994a693882ff328e&page1&pageSize=8`;
+      let geturl='https://newsdata.io/api/1/news?apikey=pub_5422803b665633289e5adceeb7382c607255&q=cryptocurrency'
+//           `https://newsapi.org/v2/top-headlines?country=us&category=${this.props.category}&apiKey=5dbbc172978040f3994a693882ff328e&page1&pageSize=8`;
+        
       this.props.setProgress(60);
       this.setState({loading:true})
       let data = await fetch(geturl);
