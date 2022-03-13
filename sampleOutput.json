@@ -1,0 +1,31 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [{
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "hindustantimes.com",
+            "title": "India vs West Indies Live Score 1st T20: Virat Kohli joins Ishan Kishan in middle, India reach 80/1 after 10 overs - Hindustan Times",
+            "description": "India vs West Indies Live Cricket Score, 1st T20 Latest Updates: Roston Chase got WI the first breakthrough as he dismissed IND skipper Rohit Sharma (40 off 19 balls) to end his whirlwind knock. Virat Kohli has joined Ishan Kishan now. and Follow IND vs WI Li…",
+            "url": "https://www.hindustantimes.com/cricket/india-vs-west-indies-live-score-1st-t20-ind-vs-wi-today-match-latest-updates-at-kolkata-101645005960910.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/02/16/1600x900/India-West-Indies-Cricket-66_1645028018762_1645028044661.jpg",
+            "publishedAt": "2022-02-16T16:31:12Z",
+            "content": "India have won all 5 of their previous meetings:\r\nIndia beat West Indies by 67 runs, West Indies in India, 3 T20I Series, 2019\r\nWest Indies beat India by 8 wickets, West Indies in India, 3 T20I Serie… [+257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "hindustantimes.com",
+            "title": "Vaughan pokes Wasim with ‘1st Test wicket’ tweet on birthday, Jaffer joins party with crushing response - Hindustan Times",
+            "description": "As Wasim Jaffer celebrated his 44th birthday on Wednesday, Michael Vaughan was quick to poke the former Indian batter. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/wasim-jaffer-s-44th-birthday-michael-vaughan-comes-up-with-ultimate-roast-101645006064858.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/02/16/1600x900/vaughan-jaffer_1615620050431_1645009124487.jpg",
+            "publishedAt": "2022-02-16T11:05:08Z",
+            "content": "After impressing most with his batting skills, Wasim Jaffer has created a similar aura on social media. Sharing his cricketing knowledge and views in the form of memes, the former India Test player's… [+1381 chars]"
+        }
+    ]
+}
