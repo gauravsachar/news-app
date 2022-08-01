@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
+import './NewsItem.css'
 
 export class Spinner extends Component {
   render() {
     return (
       <div className='text-center'>
-          <img src="https://i.gifer.com/origin/6a/6a2dfb96f278692f0900cc08975efe0e_w200.gif" alt="Processing/Loading"/>
+          <img src="https://ihatetomatoes.net/wp-content/uploads/2014/07/img_css3-spinning-preloader-01.png" className='spinner' alt="Processing/Loading"/>
       </div>
     )
   }

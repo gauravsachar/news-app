@@ -165,7 +165,7 @@ export class News extends Component {
 
           {/* {this.state.loading && <Spinner/>} */}
 
-          <h1 className='text-center'><span className='heading'>News Page</span></h1> 
+          <h1 className='text-center heading'><span className=''>News Page</span></h1> 
 
          <InfiniteScroll
           dataLength={this.state.articles.length}
