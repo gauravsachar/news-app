@@ -61,10 +61,11 @@
     width: fit-content;
     font-size: large;
     padding: 20px 20px;
-    box-shadow: -10px 20px grey;
-    color: navy;
+    box-shadow: -10px 20px rgb(123, 98, 98);
+    
+    color: rgb(249, 249, 249);
     font-family: 'Courier New', Courier, monospace;
-    background-color: lightgoldenrodyellow
+    background-color: rgb(16, 93, 134)
 }
 
 
